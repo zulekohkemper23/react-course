@@ -3,6 +3,7 @@ import './App.css';
 import React, { Component } from 'react';
 import { Navbar, NavbarBrand } from 'reactstrap';
 import Menu from "./components/menuComponent";
+import DishDetail from "./components/DishdetailComponent";
 import { DISHES } from "./shared/dishes"
 
 
