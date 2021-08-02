@@ -16,7 +16,7 @@ function About(props) {
       return(
         <Media>
           <Media left className="col-2">
-            <Media object src={leader.image} alt={leader.name} />
+            <Media object width="200px" height="250px" src={leader.image} alt={leader.name} />
           </Media>
           <Media right body className="col-10">
             <Media heading>
